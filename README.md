@@ -1,6 +1,6 @@
 # Welcome to C# Development Fundamentals 👋
 
-C# Development Fundamentals project, where I will be adding some demo projects to have an understanding of the C# language
+C# Development Fundamentals is a project where I will be adding some demo projects to have an understanding of some basic and advanced concepts of the C# language.
 
 In the [C-Sharp-Gradebook-Demo](/C-Sharp-Gradebook-Demo) demo project are showed some basics of C# code:
 
