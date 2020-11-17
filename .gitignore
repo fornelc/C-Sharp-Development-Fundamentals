@@ -133,7 +133,7 @@ $RECYCLE.BIN/
 _NCrunch*
 
 # Visual Studio code folders and files
-.vscode/*
+**/.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
