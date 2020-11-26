@@ -11,6 +11,13 @@ In the [C-Sharp-Gradebook-Demo](/C-Sharp-Gradebook-Demo) demo project are showed
 - Use of `List` collection.
 - Creation of Unit Tests using [Xunit](https://www.nuget.org/packages/xunit/) library.
 
+In [C-Sharp-Collections](/C-Sharp-Collections) folder have been added different projects with examples of how querying and modifying data in the most widely used collections - arrays, lists and dictionaries:
+
+- [Arrays](/C-Sharp-Collections/src/Collections/Arrays)
+- [Lists](/C-Sharp-Collections/src/Collections/Lists)
+- [Dictionaries](/C-Sharp-Collections/src/Collections/Dictionaries)
+- [Querying List using LINQ query syntax](/C-Sharp-Collections/src/Collections/Linq)
+
 ## Run tests
 
 ### Run tests in C-Sharp-Gradebook-Demo project
